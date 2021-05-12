@@ -2,7 +2,7 @@
 A INTERNET 
 
 <html>
-<head>
+<head
 <title>UM POUCO SOBRE A INTERNE</title>
   
   <p><h1> COMO FOI CRIADA? </h1></p>
