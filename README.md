@@ -5,13 +5,14 @@ A INTERNET
 DOCTYPE html>
 <html>
 <head>
-<title><b>UM POUCO SOBRE A INTERNE</b></title>
+<title<b>UM POUCO SOBRE A INTERNE</b>
+  /title>
 </head>
 <body>
   
   <p><h1> COMO FOI CRIADA? </h1></p>
   
-<img src = ´´images / https: //segredosdomundo.r7.com/wp-content/uploads/2019/02/arpanet-descubra-a-forma-como-surgiu-a-internet-2./imagens.jp ´´>
+<img src=´´images/https://segredosdomundo.r7.com/wp-content/uploads/2019/02/arpanet-descubra-a-forma-como-surgiu-a-internet-2./imagens.jp´´>
 
 
 <p> A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa.
