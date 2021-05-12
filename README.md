@@ -17,6 +17,6 @@ A INTERNET
   Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história. ..
   Desde então, começou a ser utilizado o nome internet. </p>
  
- <tag/>
+ <p->
   
   
