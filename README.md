@@ -2,8 +2,8 @@
 A INTERNET 
 
 <html>
-<head
-<title>UM POUCO SOBRE A INTERNE</title>
+<head>
+<title>UM POUCO SOBRE A INTERNE</title></p>
   
   <p><h1> COMO FOI CRIADA? </h1></p>
   
