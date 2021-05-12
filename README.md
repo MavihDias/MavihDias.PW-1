@@ -1,8 +1,6 @@
 # MavihDias.PW-1
 A INTERNET 
 
-<!
-DOCTYPE html>
 <html>
 <head
 <title>UM POUCO SOBRE A INTERNE </title>
